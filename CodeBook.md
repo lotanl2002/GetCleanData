@@ -11,3 +11,5 @@ The dataset includes the following files:
 
 - 'subject_train/test.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
+- 'run_analysis.R' :  Uses all previous files + X.train and X.Test Files to prepare tidy data.
+                      Result of Running this script gives a dataset with the Average result of Features.txt variables per subject and                             activity.
